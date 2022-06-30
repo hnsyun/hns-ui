@@ -13,6 +13,7 @@ module.exports = {
     'plugin:vue/vue3-recommended'
   ],
   rules: {
-    'space-before-function-paren': 'off'
+    'space-before-function-paren': 'off',
+    'vue/max-attributes-per-line': 'off'
   }
 }
